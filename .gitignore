@@ -21,6 +21,3 @@ __pycache__/
 # 5. Konfigurasi IDE (Opsional)
 .vscode/
 .idea/
-
-# Abaikan output data lain
-*.csv
