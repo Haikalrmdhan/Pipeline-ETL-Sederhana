@@ -1,0 +1,26 @@
+# 1. Virtual Environments
+# Abaikan folder virtual environment Anda
+venv/
+.venv/
+
+# 2. File Database
+# Abaikan semua file .db dan .sqlite3
+*.db
+*.sqlite
+*.sqlite3
+
+# 3. Cache Python
+# Abaikan folder __pycache__ dan file .pyc
+__pycache__/
+*.pyc
+
+# 4. File Rahasia
+# Abaikan file .env yang berisi variabel lingkungan/API key
+.env
+
+# 5. Konfigurasi IDE (Opsional)
+.vscode/
+.idea/
+
+# Abaikan output data lain
+*.csv
